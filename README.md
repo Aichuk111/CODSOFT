@@ -1,3 +1,5 @@
 Table of Contents
-Titanic Survival Prediction
-Iris flower Classification
+:
+
+1.Titanic Survival Prediction
+2. Iris flower Classification
